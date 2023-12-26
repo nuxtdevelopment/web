@@ -1,3 +1,5 @@
+![Nuxt Logo](https://cdn.dont-ping.me/api/🤖🤘👻👋🙃.png)
+
 # Official Website
 
 Official website for Nuxt Development.
