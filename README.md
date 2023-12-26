@@ -1,4 +1,4 @@
-![Nuxt Logo](https://cdn.dont-ping.me/api/🤟🤓🖖🤯👐.png)
+![Nuxt Logo](https://cdn.dont-ping.me/api/✌️🐭👋🤘👻.png)
 
 # Official Website
 
